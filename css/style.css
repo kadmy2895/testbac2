@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #3f001f; /* bordo închis */
+  color: #f8e8ec;
+}
+
+.container {
+  max-width: 960px;
+  margin: 30px auto;
+  background-color: #5a002b; /* bordo mediu */
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+}
+
+h1 {
+  font-size: 1.8rem;
+  color: #ffe4f2;
+}
+
+.subhead {
+  font-weight: bold;
+  color: #ffd6e8;
+}
+
+h2 {
+  color: #ffc0cb;
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  color: #ffdee5;
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+hr {
+  border: 1px solid #ffb6c1;
+  margin: 20px 0;
+}
+
+.highlight {
+  background-color: #ffff66;
+  color: #000;
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.success {
+  color: #b2ffb2;
+  font-weight: bold;
+}
+
+
